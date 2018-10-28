@@ -1,0 +1,7 @@
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sbt.xml
+.idea/workspace.xml
+.stack-work/
+out/
